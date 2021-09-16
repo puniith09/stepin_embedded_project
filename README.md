@@ -10,3 +10,5 @@ The Heat Tracking System for Seat Vehicles is able to keep the heat on vehicle s
 | `4_Test_plan`      | Documents with test plans and procedures|
 | `5_Report`      | Reports|
 | `6_ImagesAndVideos`      | Simulation Images and Videos|
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/89d573faafdc4444bec71e1278a67c44)](https://www.codacy.com/gh/puniith09/stepin_embedded_project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=puniith09/stepin_embedded_project&amp;utm_campaign=Badge_Grade)
