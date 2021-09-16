@@ -24,7 +24,7 @@ This project is used to identify passenger sitting and to increase the temperatu
 * Display the temperature
 * Enable the heater
 
-## Strengths
+### Strengths
 
 Friendly to the user Temperature value may be easily changed As modular programmes, the system is resilient and affordable.
 
@@ -32,10 +32,10 @@ Friendly to the user Temperature value may be easily changed As modular programm
 
 This applies exclusively to those nations that have low temperatures.
 
-## Opportunities
+### Opportunities
 
 The heater and air conditioners may be added to aid all the countries. It can be done.
 
-## Threats
+### Threats
 
 Not appropriate for the area with medium and high temperatures.
